@@ -6,7 +6,7 @@ menuWeight: 2
 excerpt: Using the Services menu
 ---
 
-The Services menu provides a full-featured interface to the native DC/OS Marathon instance. This Services men provides a comprehensive view of all of the services that you are running. You can filter services by health, status, or service name.
+The Services menu provides a full-featured interface to the native DC/OS Marathon instance. This Services menu provides a comprehensive view of all of the services that you are running. You can filter services by health, status, or service name.
 
 ![Services](/1.11/img/services-ee.png)
 
